@@ -557,12 +557,7 @@ Eg: .dict enUS;lead
 `✨️ Description:` Performs simple math operations. 
 
 `🪀 Command:` imgbb
-
 `✨️ Description image png
-
-
-
-
 
 `🪀 Command:` joke<br>
 `✨️ Description:` Send random jokes. 
