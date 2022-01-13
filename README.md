@@ -60,7 +60,9 @@ the user is responsible.
 ### `• For Termux Users 📲 [ RUN THIS CODE ON TERMUX ] 👇`
 > Need **2 PHONES** , 1 for get qr & other one for scan the qr.
 
+https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FNishNishendanidu%2Fb&template=https%3A%2F%2Fgithub.com%2FSL-Alpha-X-Team%2FAlpha-X-WA-Bot-Installer-2
 ```bash
+
 bash <(curl -L https://tinyurl.com/Alpha-X-QR-CODE)
 ```
 **• Watch tutorial** [Video](https://youtu.be/6PpRFnr2dSg) **to get qr using termux**
