@@ -9,7 +9,7 @@ SL ALPHA OWNER Nishen
 
 <br>
 
-<a href="https://github.com/SL-Alpha-X-Team"><img title="Logo" src="https://www.bing.com/images/search?view=detailV2&ccid=rQz8OUBh&id=6BFD0753B9586E2515D9FF906712BDF5C9CA6883&thid=OIP.rQz8OUBhxIOASuN1MVx3pQHaC9&mediaurl=https%3a%2f%2fwww.silvertouchtech.co.uk%2fwp-content%2fuploads%2f2020%2f05%2fbot-banner.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.ad0cfc394061c483804ae375315c77a5%3frik%3dg2jKyfW9EmeQ%252fw%26pid%3dImgRaw%26r%3d0&exph=638&expw=1600&q=bot&simid=607994831892391214&FORM=IRPRST&ck=42816C835522FC74068416E8F84B2531&selectedIndex=122" width="300" height="280">
+<a href="https://github.com/SL-Alpha-X-Team"><img title="Logo" ALPHA " width="300" height="280">
 
 <a href="https://github.com/SL-Alpha-X-Team"><img title="Alpha-X-Tm" src="https://img.shields.io/badge/Alpha_X_team-black?colorA=inactive&colorB=purple&style=social&logo=github"></a>
 
