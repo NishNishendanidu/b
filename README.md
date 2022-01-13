@@ -4,18 +4,12 @@ GENARATED BY NISHEN
 
 SL ALPHA OWNER Nishen 
 
-<h1 align="center"><b>⚡ The alpha Whatsapp User Bot 🍁</b></h1>
-<h1 align="center">~ ᴡᴏʀʟᴅ ꜰɪʀꜱᴛ ꜰᴜʟʟ ᴄᴜꜱᴛᴏᴍɪᴢᴀʙʟᴇ ᴜꜱᴇʀ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ ~</h1>
 
-<br>
+-
 
-<a href="https://github.com/SL-Alpha-X-Team"><img title="Logo" ALPHA " width="300" height="280">
 
-<a href="https://github.com/SL-Alpha-X-Team"><img title="Alpha-X-Tm" src="https://img.shields.io/badge/Alpha_X_team-black?colorA=inactive&colorB=purple&style=social&logo=github"></a>
 
-<h1> 🔎 What is Alpha-X 🔎</h1>
-
-**Alpha-X ,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [SL-Alpha-X-Team](https://github.com/SL-Alpha-X-Team). Does not log into your account It is written on WhatsApp Web API. ✨️
+**Alpha-X ,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [NISHEN-](https://github.com/SL-Alpha-X-Team). Does not log into your account It is written on WhatsApp Web API. ✨️
 
 ---
 
@@ -44,46 +38,16 @@ the user is responsible.
 > [Join For Support & Helps On Telegram.](https://t.me/AlphaX_SUPPORT)
 
 > [New Telegram Plugin Group. ](https://t.me/AlphaX_plugin)
-
 <a href="https://bit.ly/BOT_SUPPORT">ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</a> |
-<a href="https://Wa.me/947772978164">ꜱʟ-ᴀʟᴘʜᴀ</a> |
-<a href="https://Wa.me/94763983965">ʜᴀɴꜱᴀᴋᴀʙʀᴏ |
 
-<p align="center"> 
+
+ 
     
-  </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot/fork">
-    <img src="https://img.shields.io/github/forks/SL-Alpha-X-Team/Alpha-X-WA-Bot?label=Fork&style=social">
-    
-  </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/SL-Alpha-X-Team/Alpha-X-WA-Bot?style=social">
-  </a>
-</p>
+  
 
-<p align="center">
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot">
-    <img src="https://img.shields.io/github/repo-size/SL-Alpha-X-Team/Alpha-X-WA-Bot?color=purple&label=Repo%20Size&style=plastic">
 
-  </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/SL-Alpha-X-Team/Alpha-X-WA-Bot?color=purple&label=Lisance&style=plastic">
-
-  </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot">
-    <img src="https://img.shields.io/github/languages/top/SL-Alpha-X-Team/Alpha-X-WA-Bot?color=purple&label=Javascript&style=plastic">
-
-  </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot">
-    <img src="https://img.shields.io/static/v1?label=Author&message=AlphaXteam&color=purple&style=plastic">
-
-  </a>
-  <a href="https://t.me/SL_AlphaX_Team">
-    <img src="https://img.shields.io/badge/Telegram-AlphaX%20Main-purple&style=plastic">
-
-  </a>
-</p>
-
+  
+  
 ---
 
 <h1> 🛃 Simple Method 🛃</h1>
@@ -103,7 +67,7 @@ bash <(curl -L https://tinyurl.com/Alpha-X-QR-CODE)
 
 ### `• Deploy To Heroku 🚀`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Installer-2)
+ ALPHA-X TEAM-https://t.me/+9_9jIK_XLKFhYTQ1
             
 **• Watch tutorial** [Video](https://youtu.be/en4FLOsGRJY) **to create bot**
 
