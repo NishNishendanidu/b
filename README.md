@@ -1,9 +1,10 @@
 <div align="center">
 
 GENARATED BY NISHEN
+
 SL ALPHA OWNER Nishen 
 
-<h1 align="center"><b>⚡ The Alpha-X Whatsapp User Bot 🍁</b></h1>
+<h1 align="center"><b>⚡ The alpha Whatsapp User Bot 🍁</b></h1>
 <h1 align="center">~ ᴡᴏʀʟᴅ ꜰɪʀꜱᴛ ꜰᴜʟʟ ᴄᴜꜱᴛᴏᴍɪᴢᴀʙʟᴇ ᴜꜱᴇʀ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ ~</h1>
 
 <br>
@@ -133,16 +134,17 @@ By establishing the Alpha-X , you are deemed to have accepted these responsibili
 
 `Be careful using using this commands 👇`
 > **add , remove , promote , demote**
-[ dont remove up to 1 person at same time ]
-it may banned your account from whatsapp 🚫
-
-</div>
-
+ඉහත තිබෙන COMMANDS බාවිතා කලොත් ඔබේ WhatsApp ගිණුම 
+බෑන් වෙනවා
 ---
 
 <details>
 <summary><b><h1 align="center">Features 🔥 ==</h1></b></summary>
 <p align="left">
+
+🪀 Command:`setup
+`✨️ Description:` edit bot settings
+`⚠️️ Warn 
 
 `🪀 Command:` install <br>
 `✨️ Description:` Install external plugins. <br>
@@ -597,7 +599,7 @@ Eg: .dict enUS;lead
 `🪀 Command:` quote<br>
 `✨️ Description:` Send random quotes. 
 
->🤩 New features comming soon...
+GENARATED BY Nishendanidu ALPHA TEAM
 
 #### E-Media Plugin Commands 🛠️
 | Command 💻 | Description ℹ️ |
@@ -700,12 +702,10 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 ---
 
-<h2> ⚡ Developers 🔥 </h2>
+<h2> ⚡ Developer in  nishen  🔥 </h2>
   <div align="center">
     
-  [![SL ALPHA](https://github.com/SL-Alpha-X.png?size=110)](https://github.com/SL-Alpha-X) |  [![HansakaBro](https://github.com/HansakaBro.png?size=110)](https://github.com/HansakaBro) 
-------|------
-[~ SL ALPHA ~](https://github.com/SL-Alpha-X)  | [~ HansakaBro ~](https://github.com/HansakaBro) 
-  </div>
+  [![am ALPHA]
+----  
 
 </div>
