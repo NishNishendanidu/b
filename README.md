@@ -556,8 +556,13 @@ Eg: .dict enUS;lead
 `🪀 Command:` calc <br>
 `✨️ Description:` Performs simple math operations. 
 
-`🪀 Command:` xapi<br>
-`✨️ Description:` Xteam API key info. 
+`🪀 Command:` imgbb
+
+`✨️ Description image png
+
+
+
+
 
 `🪀 Command:` joke<br>
 `✨️ Description:` Send random jokes. 
