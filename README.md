@@ -9,7 +9,7 @@ SL ALPHA OWNER Nishen
 
 <br>
 
-<a href="https://github.com/SL-Alpha-X-Team"><img title="Logo" src="https://telegra.ph/file/c265e654e3ec87c78d984.jpg" width="300" height="280">
+<a href="https://github.com/SL-Alpha-X-Team"><img title="Logo" src="http://www.pushsquare.com/news/2020/04/could_astro_bot_be_an_early_ps5_star" width="300" height="280">
 
 <a href="https://github.com/SL-Alpha-X-Team"><img title="Alpha-X-Tm" src="https://img.shields.io/badge/Alpha_X_team-black?colorA=inactive&colorB=purple&style=social&logo=github"></a>
 
