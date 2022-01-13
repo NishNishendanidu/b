@@ -1,4 +1,5 @@
 <div align="center">
+ALPHA-X TEAM JOIN NOW TO LINK https://t.me/+9_9jIK_XLKFhYTQ1
 
 GENARATED BY NISHEN
 
@@ -544,7 +545,7 @@ Eg: .dict enUS;lead
 `🪀 Command:` speedtest <br>
 `✨️ Description:` Measures Download and Upload speed. <br>
 `💡 Example:` speedtest user // speedtest server
-
+☄️
 `🪀 Command:` ping<br>
 `✨️ Description:` Measures your ping. 
 
