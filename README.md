@@ -9,7 +9,7 @@ SL ALPHA OWNER Nishen
 
 
 
-**Alpha-X ,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [NISHEN-](https://github.com/SL-Alpha-X-Team). Does not log into your account It is written on WhatsApp Web API. ✨️
+**Alpha-X ,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [NISHEN-](). Does not log into your account It is written on WhatsApp Web API. ✨️
 
 ---
 
@@ -41,7 +41,7 @@ the user is responsible.
 <a href="https://bit.ly/BOT_SUPPORT">ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</a> |
 
 
- 
+ logo https://images.app.goo.gl/EicZHpi7GMe5qgMW7
     
   
 
