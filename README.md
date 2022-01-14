@@ -4,7 +4,7 @@ GENARATED BY NISHEN
 
 SL ALPHA OWNER Nishen 
 
-LOGO https://images.app.goo.gl/EicZHpi7GMe5qgMW7
+
 -
 
 
