@@ -4,7 +4,7 @@ GENARATED BY NISHEN
 
 SL ALPHA OWNER Nishen 
 
-
+LOGO https://images.app.goo.gl/EicZHpi7GMe5qgMW7
 -
 
 
@@ -37,18 +37,16 @@ the user is responsible.
 
 > [Join For Support & Helps On Telegram.](https://t.me/AlphaX_SUPPORT)
 
-> [New Telegram Plugin Group. ](https://t.me/AlphaX_plugin)
-<a href="https://bit.ly/BOT_SUPPORT">ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</a> |
 
 
- logo https://images.app.goo.gl/EicZHpi7GMe5qgMW7
+ 
     
   
 
 
-  
-  
----
+
+
+
 
 <h1> 🛃 Simple Method 🛃</h1>
 
