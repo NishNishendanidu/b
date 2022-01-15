@@ -88,6 +88,9 @@ $ nano config.env
 $ node bot.js
 ```
 ---
+ ##deploy to heroku🌐🌐
+ https://github.com/NishNishendanidu/b/blob/main/README.md
+ 
 
 <h1> ⚠️ Warning! ⚠️️</h1>
 
