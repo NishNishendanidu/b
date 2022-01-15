@@ -107,6 +107,14 @@ By establishing the Alpha-X , you are deemed to have accepted these responsibili
 <details>
 <summary><b><h1 align="center">Features 🔥 ==</h1></b></summary>
 <p align="left">
+ 
+ 🪀 Command:`owner nishen
+
+`✨️ Description:` powerd by nishen 
+
+
+ 
+ 
 
 🪀 Command:`setup
 `✨️ Description:` edit bot settings
@@ -565,8 +573,11 @@ Eg: .dict enUS;lead
 `🪀 Command:` quote<br>
 `✨️ Description:` Send random quotes. 
 
-GENARATED BY Nishendanidu ALPHA TEAM
+GENARATED BY Nishendanidu 
 
+ ## deploy to heroku🌐🌐
+https://github.com/NishNishendanidu/b/blob/main/README.md
+ 
 #### E-Media Plugin Commands 🛠️
 | Command 💻 | Description ℹ️ |
 | ---------- | -------------------- |
