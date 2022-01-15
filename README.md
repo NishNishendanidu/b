@@ -89,6 +89,8 @@ $ node bot.js
 ```
 ---
  ##deploy to heroku🌐🌐
+ 
+ 
  https://github.com/NishNishendanidu/b/blob/main/README.md
  
 
@@ -103,8 +105,7 @@ By establishing the Alpha-X , you are deemed to have accepted these responsibili
 
 `Be careful using using this commands 👇`
 > **add , remove , promote , demote**
-ඉහත තිබෙන COMMANDS බාවිතා කලොත් ඔබේ WhatsApp ගිණුම 
-බෑන් වෙනවා
+ alpha-x
 ---
 
 <details>
@@ -113,7 +114,16 @@ By establishing the Alpha-X , you are deemed to have accepted these responsibili
  
  🪀 Command:`owner nishen
 
-`✨️ Description:` powerd by nishen 
+`✨️ Description:` powerd by nishen
+ 
+🪀 Command:`mediafire
+
+`✨️ Description:` download to mediafire files to need link
+
+🪀 Command:`google drive 
+
+`✨️ Description:` download to google drive files to need link
+
 
 
  
